@@ -164,27 +164,8 @@ namespace magasin_vetements
             {
                 Console.WriteLine("----- Aucun article trouvé -----");
                 Console.WriteLine();
-                //QuiteOrContinue(articles);
             }
         }
-
-       /* static void QuiteOrContinue(List<Articles> articles)
-        {
-            Console.WriteLine("1 - Tenter une autre recherche\n" +
-                "2 - Retour au menu principal");
-            string response_str = Console.ReadLine();
-            int response_int = int.Parse(response_str);
-            Console.Clear();
-
-            if(response_int == 1)
-            {
-                WhatArticlesSearch(articles);
-            }
-            else if(response_int == 2)
-            {
-                ShowArticles(articles);
-            }
-        }*/
 
         static void Main(string[] args)
         {
