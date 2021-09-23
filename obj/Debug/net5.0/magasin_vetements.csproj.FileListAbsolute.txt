@@ -1,0 +1,16 @@
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\bin\Debug\net5.0\magasin_vetements.exe
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\bin\Debug\net5.0\magasin_vetements.deps.json
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\bin\Debug\net5.0\magasin_vetements.runtimeconfig.json
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\bin\Debug\net5.0\magasin_vetements.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\bin\Debug\net5.0\magasin_vetements.dll
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\bin\Debug\net5.0\ref\magasin_vetements.dll
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\bin\Debug\net5.0\magasin_vetements.pdb
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.AssemblyInfo.cs
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.dll
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\ref\magasin_vetements.dll
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.pdb
+C:\Users\kevin\Desktop\C# udemy\magasin_vetements\obj\Debug\net5.0\magasin_vetements.genruntimeconfig.cache
